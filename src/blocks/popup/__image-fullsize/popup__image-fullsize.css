@@ -1,0 +1,5 @@
+.popup__image-fullsize {
+    max-height: 80vh;
+    max-width: 80vw;
+    object-fit: contain;
+}
