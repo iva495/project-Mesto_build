@@ -39,7 +39,7 @@ api.getUserInfo()
   }
   userName.textContent = res.name;
   userJob.textContent = res.about;
-})
+});
 
 api.getInitialCards()
 .then((res) => {
