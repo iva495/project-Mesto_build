@@ -9,8 +9,9 @@
 @import url(../blocks/places-list/places-list.css);
 @import url(../blocks/place-card/place-card.css);
 @import url(../blocks/popup/popup.css);
-@import url(../blocks/internet-error/internet-error.css);
-
+@import url(../blocks/popupChange/popupChange.css);
+@import url(../blocks/popupImg/popupImg.css);
+@import url(../blocks/Err/Err.css);
 body {
   background-color: #000;
 }

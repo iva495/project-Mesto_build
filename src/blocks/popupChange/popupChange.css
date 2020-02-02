@@ -1,0 +1,21 @@
+@import url(./__content/popupChange__content.css);
+@import url(./__close/popupChange__close.css);
+@import url(./__title/popupChange__title.css);
+@import url(./__form/popupChange__form.css);
+@import url(./__input/popupChange__input.css);
+@import url(./__button/popupChange__button.css);
+@import url(./_is-opened/popupChange_is-opened.css); 
+@import url(./__error_land/popupChange__error_land.css); 
+@import url(./__error_name/popupChange__error_name.css); 
+.popupChange {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, .5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: none;
+}

@@ -4,12 +4,9 @@
 @import url(./__form/popup__form.css);
 @import url(./__input/popup__input.css);
 @import url(./__button/popup__button.css);
-@import url(./_is-opened/popup_is-opened.css);
-@import url(./__image/popup__image.css);
-@import url(./__image-fullsize/popup__image-fullsize.css);
-@import url(./__error/popup__error.css);
-
-
+@import url(../popup/_is-opened/popup_is-opened.css);
+@import url(.//__error_link/popup__error_link.css);
+@import url(./__error_name/popup__error_name.css);
 .popup {
   position: fixed;
   top: 0;

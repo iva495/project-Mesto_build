@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dzemlyakov/project-Mesto_build.git"
+    "url": "git+https://github.com/iva495/project-Mesto_build.git"
   },
-  "author": "Dmitriy Zemlyakov",
+  "author": "Ivan Eliseev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dzemlyakov/project-Mesto_build/issues"
+    "url": "https://github.com/iva495/project-Mesto_build/issues"
   },
-  "homepage": "https://github.com/dzemlyakov/project-Mesto_build#readme",
+  "homepage": "https://github.com/iva495/project-Mesto_build#readme",
   "devDependencies": {
     "@babel/cli": "^7.7.7",
     "@babel/core": "^7.7.7",
