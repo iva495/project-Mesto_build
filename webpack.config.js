@@ -13,7 +13,7 @@ module.exports = {
     filename: '[name].[chunkhash].js'
   },
   module: {
-    rules: [
+    rules: [ 
       {
         test: /\.js$/,
         exclude: /node_modules/,
