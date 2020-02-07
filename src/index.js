@@ -1,5 +1,5 @@
 
-let initialCards = [];
+let initialCards = []; 
 const form = document.forms.new;
 const buttonPop = document.querySelector('.user-info__button');
 const popup = document.querySelector('.popup');
